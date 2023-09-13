@@ -2,8 +2,8 @@
 👋 Introduction<br>Hello there! I'm Abhay Tiwari, recent undergraduate student from the Indian Institute of Technology, Patna (IIT Patna 2023). I'm passionate about backend development and always eager to take on new and challenging opportunities.<br><br>
 
 ## 🌐 Socials:
-[![](https://visitcount.itsvg.in/api?id=TAbhay&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
-[![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2)](https://tabhay.github.io/)) 
+[![](https://visitcount.itsvg.in/api?id=TAbhay&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in) <br>
+[![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2)](https://tabhay.github.io/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tabhay24/) 
 
 💻 Tech Stack<br>My preferred tech stack includes:<br><br>Server Side and Scripting: Node.js<br>Frontend: JavaScript<br>Server Framework: Express<br>Frontend Framework: React<br>Languages - C++, Python<br><br>📧 Contact<br>Feel free to reach out to me for exciting collaborations and opportunities! <br>You can contact me at tiwari.a.abhay@gmail.com.<br><br>Let's innovate and create something awesome together! 👨‍💻🌟
