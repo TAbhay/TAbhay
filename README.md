@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Introduction<br>Hello there! I'm Abhay Tiwari, recent undergraduate student from the Indian Institute of Technology, Patna (IIT Patna 2023). I'm passionate about backend development and always eager to take on new and challenging opportunities.<br><br>
+👋 Introduction<br>Hello there! I am Abhay Tiwari , working as SDE at Jio Platforms Ltd. I have recently graduated with B.Tech degree from Indian Institute of Technology Patna ( IIT Patna ).. I'm passionate about backend development and always eager to take on new and challenging opportunities.<br><br>
 
 ## 🌐 Socials:
 [![](https://visitcount.itsvg.in/api?id=TAbhay&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in) <br>
