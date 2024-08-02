@@ -9,16 +9,17 @@
 💻 💻 Tech Stack<br>
 My preferred tech stack includes:<br><br>
 
-Server Side and Scripting: Node.js, Golang<br>
-Server Framework: Express, Gin-Gonic<br>
-Frontend Framework: React<br>
-Languages: C++, Python, Go, Javascript<br>
-Containerization: Docker<br>
-Container Orchestration: Kubernetes, OpenShift, Docker<br>
-DevOps Practices: CI/CD, Helm<br>
-Databases: MongoDB, MariaDB, Cassandra<br><br>
-Interests: Software Development, Web Development, Devops, Cloud, DSA<br>
-📧 Contact<br>
+<b>Server Side and Scripting</b>: Node.js, Golang<br>
+<b>Server Framework</b>: Express, Gin-Gonic<br>
+<b>Frontend Framework</b>: React<br>
+<b>Languages</b>: C++, Python, Go, Javascript<br>
+<b>Containerization</b>: Docker<br>
+<b>Container Orchestration</b>: Kubernetes, OpenShift, Docker<br>
+<b>DevOps Practices</b>: CI/CD, Helm<br>
+<b>Databases</b>: MongoDB, MariaDB, Cassandra<br>
+<b>Interests</b>: Software Development, Web Development, Devops, Cloud, DSA<br><br>
+
+📧 <b>Contact</b><br>
 Feel free to reach out to me for exciting collaborations and opportunities! You can contact me at tiwari.a.abhay@gmail.com.<br><br>
 Let's innovate and create something awesome together! 👨‍💻🌟
 
