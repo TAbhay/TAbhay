@@ -4,7 +4,7 @@
 ## 🌐 Socials:
 [![](https://visitcount.itsvg.in/api?id=TAbhay&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in) <br>
 [![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2)](https://tabhay.github.io/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tabhay24/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tabhay24/) 
 
 💻 💻 Tech Stack<br>
 My preferred tech stack includes:<br><br>
